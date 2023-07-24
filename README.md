@@ -93,14 +93,14 @@ Here are some ideas to get you started:
 <table align="center">
 <tr border="none" width="100%">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats-alvictal.vercel.app/api?username=alvictal&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-alvictal.vercel.app/api?username=alvictal&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alvictal&theme=dark&hide_border=false" /> 
 </td>
 
 
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats-alvictal.vercel.app/api/top-langs/?username=alvictal&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&hide=ShaderLab,HLSL"/>
+  <img src="https://github-readme-stats-alvictal.vercel.app/api/top-langs/?username=alvictal&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&hide=ShaderLab,HLSL"/>
   </td>
 </tr>
 </table>    
