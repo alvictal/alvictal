@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <picture> <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47038o0yoej61m235kgoyzt4d778rlip7jzb29b93z&ep=v1_gifs_related&rid=giphy.gif&ct=g" width =300px></picture>
 
 - :school: I am a `Senior` Embedded developer
-- 🌱 I'm currently learning `Game development` and `Data Analysis`
+- 🌱 I'm currently learning `Game development`, `Data Analysis` and `Zig`
 - :golf: Passionate for golf and nature :bird: 
 - :email: You can find more about my experience [![LinkedId](https://img.shields.io/badge/-LinkedIn-%234676e8?style=plastic&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/alu%C3%ADsio-leonello-victal-67479b14/)
@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 ![Rust](https://img.shields.io/badge/-Rust-%23000000?style=plastic&logo=rust&logoColor=white&labelColor=%23333333)
 ![JavaScript](https://img.shields.io/badge/-Javascript-%235A00E0?style=plastic&logo=javascript&logoColor=white&labelColor=%23420094)
 ![GnuBash](https://img.shields.io/badge/-ShellScript-%234EAA25?style=plastic&logo=gnubash&logoColor=white&labelColor=%23245E0B)
+![Zig](https://img.shields.io/badge/-Zig-%23F7A41D?style=plastic&logo=zig&logoColor=white&labelColor=%23ad7315)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
 
