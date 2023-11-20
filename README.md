@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=plastic&logo=C&logoColor=white&labelColor=%235C6C80)
 ![C++](https://img.shields.io/badge/-C++-%2300599C?style=plastic&logo=C%2B%2B&logoColor=white&labelColor=%23002D4F)
 ![Csharp](https://img.shields.io/badge/-C%23-%236004c2?style=plastic&logo=csharp&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-%2300ADD8?style=plastic&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-%233776AB?style=plastic&logo=python&logoColor=white&labelColor=%23153D5E)
 ![Rust](https://img.shields.io/badge/-Rust-%23000000?style=plastic&logo=rust&logoColor=white&labelColor=%23333333)
 ![JavaScript](https://img.shields.io/badge/-Javascript-%235A00E0?style=plastic&logo=javascript&logoColor=white&labelColor=%23420094)
