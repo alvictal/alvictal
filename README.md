@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 
 <picture> <img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47038o0yoej61m235kgoyzt4d778rlip7jzb29b93z&ep=v1_gifs_related&rid=giphy.gif&ct=g" width =300px></picture>
 
-- :school: I am a `Senior` Embedded developer
+- 🏫 I am a `Senior` Embedded developer
 - 🌱 I'm currently learning `Game development`, `Data Analysis` and `Zig`
-- :golf: Passionate for golf and nature :bird: 
-- :email: You can find more about my experience [![LinkedId](https://img.shields.io/badge/-LinkedIn-%234676e8?style=plastic&logo=linkedin&logoColor=white
+- ⛳ Passionate for golf and nature 🐦 
+- 📧 You can find more about my experience [![LinkedId](https://img.shields.io/badge/-LinkedIn-%234676e8?style=plastic&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/alu%C3%ADsio-leonello-victal-67479b14/)
-- :technologist: **Currently working with** `Team Management` **,** `Embedded Systems` **&** `Game Development`
+- 🧑‍💻 **Currently working with** `Team Management` **,** `Embedded Systems` **&** `Game Development`
 
 <br>
 
